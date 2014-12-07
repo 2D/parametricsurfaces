@@ -33,7 +33,7 @@ Let's implement an example from the introduction::
 	import RuledSurfaces as rsrf
 	plueckerconoid=rsrf.AddPoints( rsrf.plueckerconoid_pts()  )
 
-More examples soon on http://www.algitecture.com/
+More examples soon on ...coming
 
 
 ####Authors
