@@ -7,7 +7,7 @@ Parametric Surfaces
 ###Description
 
 Parametric Surfaces is a class library for 
-This library of python classes could be used by the python scripting engine in Rhinoceros, Grasshopper, Autodesk Maya and Blender. Discussions for help on using these scripts can be found soon at: http://www.algitecture.com/
+This library of python classes could be used by the python scripting engine in Rhinoceros, Grasshopper, Autodesk Maya and Blender. Discussions for help on using these scripts can be found soon at: coming
 
 
 ###Related Work
